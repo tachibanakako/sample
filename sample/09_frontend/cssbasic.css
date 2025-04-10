@@ -1,0 +1,27 @@
+p{
+    color:#666;
+}
+.overview {
+    color: #333;
+    border-left: 4px solid #3498db;
+    padding: 5px;
+}
+#firsttitle{
+    color: #3498db;
+    font-weight: bold;
+}
+
+section p {
+    background-color: #eee;
+}
+a:link {
+    color: #0000ff;
+}
+
+a:hover {
+    color: #ff0000;
+}
+
+a:visited {
+    color: #999999;
+}
